@@ -12,7 +12,7 @@
 ### Libraries
 	1. JUnit 5
  	2. Selenium 4.12
-  	Testng 6.7
+  	3. Testng 6.7
 
 ## Objectives
 
