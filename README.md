@@ -1,6 +1,18 @@
 # Selenium Java Authomation Test
 
-- MainURL: https://blogdoagi.com.br/  
+- MainURL: https://blogdoagi.com.br/
+
+## Environment
+
+- Java JDK V21
+- Eclipse IDE
+- Selenium java 4.12
+- Chromedriver v117 win32
+
+### Libraries
+	1. JUnit 5
+ 	2. Selenium 4.12
+  	Testng 6.7
 
 ## Objectives
 
